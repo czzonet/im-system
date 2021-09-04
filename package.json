@@ -66,8 +66,10 @@
     "@types/styled-components": "^5.1.9",
     "antd": "^4.14.0",
     "chalk": "^4.1.0",
+    "classnames": "^2.3.1",
     "file-loader": "^6.2.0",
     "get-port": "^5.1.1",
+    "immer": "^9.0.6",
     "log-symbols": "^4.0.0",
     "styled-components": "^5.2.3"
   }
